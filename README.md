@@ -7,3 +7,18 @@ This repository contains the dataset for the paper: "SoK: Security of Programmab
 - :link:[Defenses](csv/Defenses.csv)
 
 Additionally, the data can be found in the form of Excel spreadsheets [here](xlsx/).
+
+
+## Research Paper
+
+**SoK: Security of Programmable Logic Controllers** 
+
+If you use our dataset in a scientific publication, please do cite us using this **BibTex** entry:
+``` tex
+@inproceedings{placeholder,
+ author    = {placeholder},
+ booktitle = {placeholder},
+ title     = {placeholder},
+ year      = {placeholder}
+}
+```
