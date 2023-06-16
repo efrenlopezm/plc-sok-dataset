@@ -8,6 +8,27 @@ This repository contains the dataset for the paper: "SoK: Security of Programmab
 
 Additionally, the data can be found in the form of Excel spreadsheets [here](xlsx/).
 
+## PLC Methods Dataset
+
+This dataset contains the attack and defense methods. It has placeholder columns.
+
+Columns:
+1. Meth
+
+## PLC Papers Dataset
+
+This dataset contains the papers included in our SoK literature review.
+
+Important Columns:
+
+1. Paper Title
+2. Conference/Journal
+3. Literature Type
+4. Year
+5. Method
+6. Keywords
+7. SoftPLC/HardPLC
+8. Artifact Availability
 
 ## Research Paper
 
