@@ -1,6 +1,8 @@
 # SoK: Security of Programmable Logic Controllers - Dataset
 
-This repository hosts the dataset released alongside the paper: **SoK: Security of Programmable Logic Controllers**. Tables containing attacks and defenses categorized by their techniques can be downloaded via the links below. The raw list of papers can be obtained [here](csv/Papers.csv).
+This repository hosts the dataset released alongside the paper: **SoK: Security of Programmable Logic Controllers**.
+The dataset includes two different files. The first file contains the SoK Literature Review papers. The second file contains the Attack and Defense Methods introduced in the papers included in the first file.
+Tables containing attacks and defenses categorized by their techniques can be downloaded via the links below. The raw list of papers can be obtained [here](csv/Papers.csv).
 
 - :link:[Attacks](csv/Attacks.csv)
 
