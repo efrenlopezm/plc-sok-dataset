@@ -15,7 +15,7 @@ This dataset contains the attack and defense methods.
 
 This dataset contains the papers included in our SoK literature review.
 
-:bar_chart:[Papers Dataset](csv/dataset_papers.csv)
+:bar_chart: [Papers Dataset](csv/dataset_papers.csv)
 
 ## Research Paper
 
