@@ -9,7 +9,7 @@ Additionally, the data can be found in the form of Excel spreadsheets [here](xls
 
 This dataset contains the attack and defense methods.
 
-:bar_chart:[Methods Dataset](csv/Attacks.csv)
+:bow_and_arrow:[Methods Dataset](csv/Attacks.csv)
 
 ## PLC Papers Dataset
 
