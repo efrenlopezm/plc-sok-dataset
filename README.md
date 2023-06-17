@@ -3,8 +3,6 @@
 This repository hosts the dataset released alongside the paper: **SoK: Security of Programmable Logic Controllers**.
 The dataset includes two different files. The first file contains the SoK Literature Review papers. The second file contains the Attack and Defense Methods introduced in the papers included in the first file.
 
-Additionally, the data can be found in the form of Excel spreadsheets [here](xlsx/).
-
 ## PLC Methods Dataset
 
 This dataset contains the attack and defense methods.
