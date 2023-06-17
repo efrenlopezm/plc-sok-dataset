@@ -19,17 +19,6 @@ This dataset contains the papers included in our SoK literature review.
 
 :bar_chart:[Papers Dataset](csv/dataset_papers.csv)
 
-Important Columns:
-
-1. Paper Title
-2. Conference/Journal
-3. Literature Type
-4. Year
-5. Method
-6. Keywords
-7. SoftPLC/HardPLC
-8. Artifact Availability
-
 ## Research Paper
 
 **SoK: Security of Programmable Logic Controllers** 
