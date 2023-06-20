@@ -17,6 +17,10 @@ This dataset contains the papers included in our SoK literature review.
 
 :bar_chart: [Papers Dataset](csv/dataset_papers.csv)
 
+## How to contribute?
+
+If you would like to contribute to any of these datasets please send a Pull Request using the provided template.
+
 ## Research Paper
 
 **SoK: Security of Programmable Logic Controllers** 
