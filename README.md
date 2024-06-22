@@ -27,10 +27,10 @@ If you would like to contribute to any of these datasets please send a Pull Requ
 
 If you use our dataset in a scientific publication, please do cite us using this **BibTex** entry:
 ``` tex
-@inproceedings{placeholder,
- author    = {placeholder},
- booktitle = {placeholder},
- title     = {placeholder},
- year      = {placeholder}
+@inproceedings{lopez2024sok,
+  title={SoK: Security of Programmable Logic Controllers},
+  author={L{\'o}pez-Morales, Efr{\'e}n and Planta, Ulysse and Rubio-Medrano, Carlos and Abbasi, Ali and Cardenas, Alvaro},
+  booktitle={Proceedings of the 33rd USENIX Security Symposium},
+  year= {2024}
 }
 ```
